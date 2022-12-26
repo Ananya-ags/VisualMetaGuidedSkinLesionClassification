@@ -1,6 +1,6 @@
 # Visual Meta-Guided Skin Lesion Classification
 
-### This repo contains our work which has been accepted at ML-CDS 2022. Proceedings of our work shall be published in conjunction with the proceedings of MICCAI 2022.
+### This repo contains our work which has been accepted at ML-CDS 2022. Proceedings of our work have been published in conjunction with the proceedings of MICCAI 2022. The corresponding research paper is published under the title "Visually Aware Metadata-Guided Supervision for Improved Skin Lesion Classification Using Deep Learning and can be found at the following link- https://link.springer.com/chapter/10.1007/978-3-031-23223-7_6 
 ### Co-authors: Anshul Pundhir, Ananya Agarwal, Saurabh Dadhich, Balasubramanian Raman
 
 #### To run the code:
